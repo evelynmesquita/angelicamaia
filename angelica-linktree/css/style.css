@@ -13,7 +13,7 @@ html, body {
 
 
 body {
-  font-family: 'Sofia', cursive;
+  font-family: 'Reenie Beanie', cursive;
   letter-spacing: 1.5px;
   color: white;
   background: linear-gradient(0deg, rgb(22, 194, 99) 0%, rgb(32, 151, 84) 50%, rgb(14, 110, 56) 100%);
@@ -27,15 +27,16 @@ body {
 }
 
 h1 {
-  font-family: 'Sofia', cursive;
+  font-family: 'Reenie Beanie', cursive;
   font-weight: 100;
-  font-size: 25px;
+  font-size: 50px;
   margin-bottom: 2px;
 }
 
 h2 {
   font-size: 16px;
-  margin: 5px 5px
+  margin: 5px 5px;
+  font-size: 20px;
   
 }
 
@@ -79,6 +80,7 @@ h2 {
   text-decoration: none;
   color: rgb(5, 5, 5);
   font-weight: bold;
+  font-size: 30px;
 }
 
 .links-list li a span {
