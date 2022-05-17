@@ -49,7 +49,7 @@ h2 {
   display: flex ;
   justify-content: space-around; /*só funciona quando tem o display flex*/
   list-style: none; /*tirar as bolinhas da lista li*/
-  margin: 20px /*cima e baixo*/ 0;
+  margin: 20px; /*cima e baixo*/ 
 
 }
 
